@@ -2,6 +2,10 @@
 ## create a portfolio 
 choose the project
 
+## road map to became a DATA ANALIST
+ - https://github.com/codebasics/py/blob/master/TechTopics/DataAnalystRoadMap2020/data_analyst_learning_path_2020.md
+
+
 ## Good tutorial in exel and SQL
 
 

@@ -17,6 +17,13 @@
 ### Learning Platform
  - ...
 
+### Open database
+ - Collection of classified open dataset: https://github.com/awesomedata/awesome-public-datasets
+ - List of open dataset: https://www.freecodecamp.org/news/https-medium-freecodecamp-org-best-free-open-data-sources-anyone-can-use-a65b514b0f2d/
+ - Kaggle: https://www.kaggle.com/datasets
+ - Microsoft: https://azure.microsoft.com/en-us/services/open-datasets/
+ - New Zealand: https://www.data.govt.nz/, https://www.educationcounts.govt.nz/statistics, http://nzdotstat.stats.govt.nz/
+
 ## Tool and software
 
 ### Excel

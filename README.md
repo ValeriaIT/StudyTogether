@@ -24,7 +24,7 @@
  - Microsoft: https://azure.microsoft.com/en-us/services/open-datasets/
  - New Zealand: https://www.data.govt.nz/, https://www.educationcounts.govt.nz/statistics, http://nzdotstat.stats.govt.nz/
 
-## Tool and software
+## Tools, languages, software
 
 ### Excel
  - ...
@@ -33,6 +33,12 @@
  - ...
 
 ### Power BI
+ - ...
+
+### Python
+ - ...
+
+### R
  - ...
 
 

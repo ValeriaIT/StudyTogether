@@ -27,20 +27,14 @@
 ## Tools, languages, software
 
 ### Excel
- - ...
-
-### SQL
- - ...
 
 ### Power BI
- - ...
+
+### SQL
 
 ### Python
- - ...
 
 ### R
- - ...
-
 
 ## Create a portfolio 
 choose the project 

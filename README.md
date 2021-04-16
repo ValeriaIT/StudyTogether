@@ -1,7 +1,14 @@
-# StudyTogether
+# StudyTogether: DATA ANALIST
 
-## road map to became a DATA ANALIST
- - https://github.com/codebasics/py/blob/master/TechTopics/DataAnalystRoadMap2020/data_analyst_learning_path_2020.md
+### road map
+ - https://github.com/codebasics/py/blob/master/TechTopics/DataAnalystRoadMap2020/data_analyst_learning_path_2020.md (YT video: https://www.youtube.com/watch?v=_eAl7vuVu3U)
+
+### certification
+ - Google
+ - IBM
+ - Microsoft DA 100
+
+## Tool and software
 
 ### Excel
 
@@ -9,13 +16,8 @@
 
 ### Power BI
 
-### certifications
- - Google
- - IBM
- - Microsoft DA 100
-
 ## create a portfolio 
-choose the project
+choose the project 
 
 
 ## Others topics

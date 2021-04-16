@@ -45,7 +45,9 @@ Docker tutorial
  - https://www.youtube.com/watch?v=WcQ3-M4-jik
 
 C#
- - https://www.youtube.com/watch?v=GhQdlIFylQ8&t=1s
+ - Microsoft documentation: https://docs.microsoft.com/en-us/dotnet/csharp/
+ - C# full course: https://www.youtube.com/watch?v=GhQdlIFylQ8&t=1s
+ - Linq (Writing Queries in C#): https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/introduction-to-linq-queries
 
 Azure, AWS
  - ...

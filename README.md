@@ -1,4 +1,4 @@
-# StudyTogether: DATA ANALIST (under construction)
+# StudyTogether: DATA ANALIST 
 
 ## Resources online
 
@@ -18,12 +18,6 @@
  - Freecodecamp: https://www.freecodecamp.org/
  - Edx (IBM free courses): https://www.edx.org/school/ibm
 
-### Open database
- - Collection of classified open dataset: https://github.com/awesomedata/awesome-public-datasets
- - List of open dataset: https://www.freecodecamp.org/news/https-medium-freecodecamp-org-best-free-open-data-sources-anyone-can-use-a65b514b0f2d/
- - Kaggle: https://www.kaggle.com/datasets
- - Microsoft: https://azure.microsoft.com/en-us/services/open-datasets/
- - New Zealand: https://www.data.govt.nz/, https://www.educationcounts.govt.nz/statistics, http://nzdotstat.stats.govt.nz/
 
 ## Tools, languages, software
 
@@ -47,6 +41,16 @@
 ### Data Warehouse
  - Data Warehouse Tutorial For Beginners, Data Warehouse Concepts (Edureka): https://www.youtube.com/watch?v=J326LIUrZM8
 
+
+### Open database
+ - Collection of classified open dataset: https://github.com/awesomedata/awesome-public-datasets
+ - List of open dataset: https://www.freecodecamp.org/news/https-medium-freecodecamp-org-best-free-open-data-sources-anyone-can-use-a65b514b0f2d/
+ - Kaggle: https://www.kaggle.com/datasets
+ - Microsoft: https://azure.microsoft.com/en-us/services/open-datasets/
+ - New Zealand: https://www.data.govt.nz/, https://www.educationcounts.govt.nz/statistics, http://nzdotstat.stats.govt.nz/
+
+
+
 ## Create a portfolio 
 choose the project 
 
@@ -64,4 +68,3 @@ Docker tutorial
 Cloud
 - Azure: Exam AZ-900: Microsoft Azure Fundamentals: https://docs.microsoft.com/en-us/learn/certifications/exams/az-900
 - AWS: AWS Certified Cloud Practitioner: https://aws.amazon.com/certification/certified-cloud-practitioner/?ch=cta&cta=header&p=2
- - ...

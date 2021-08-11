@@ -62,6 +62,9 @@ C#
  - freeCodeCamp, C# full course: https://www.youtube.com/watch?v=GhQdlIFylQ8&t=1s
  - Linq (Writing Queries in C#): https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/introduction-to-linq-queries
 
+ASP.NET
+ - AspNetCore Roadmap: https://github.com/MoienTajik/AspNetCore-Developer-Roadmap
+
 Docker tutorial
  - Intro to Docker - A Tool Every Developer Should Know (IAmTimCorey): https://www.youtube.com/watch?v=WcQ3-M4-jik
 
